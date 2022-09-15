@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hoQAz8jzJILQLU1HzoR5+GzZpHQdh7ZlYXQ82hF0SUV7VVuRqmvMy15wR+XzUKKv3IK7gadY4UznLWdXLp67og==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\SalaryCalc\\SalaryCalc\\SalaryCalc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\opilane\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
